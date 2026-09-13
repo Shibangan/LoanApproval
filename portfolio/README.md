@@ -1,6 +1,6 @@
 # 🚀 Data Science Project Lab
 
-A curated collection of practical Data Science, Machine Learning, NLP, recommendation, forecasting, and analytics projects.
+A curated collection of practical Data Science, Machine Learning, NLP, recommendation, forecasting, risk modeling, and analytics projects.
 
 ## 🌟 Projects
 
@@ -9,6 +9,7 @@ A curated collection of practical Data Science, Machine Learning, NLP, recommend
 | Project | Focus | Status |
 |---|---|---|
 | 💳 [Loan Approval Prediction](../) | Classification + preprocessing | ✅ Built |
+| 💳 [AI Financial Risk & Credit Scoring](ai-financial-risk-credit-scoring/) | ML + explainability + deployment | ✅ Built |
 | 🌦️ [Weather Trend & Forecasting](weather-trend-forecasting/) | Time series + regression | ✅ Built |
 
 ### 🚧 Portfolio Roadmap
@@ -26,8 +27,8 @@ A curated collection of practical Data Science, Machine Learning, NLP, recommend
 
 ## 🧰 Core Stack
 
-Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SQL · Jupyter · Streamlit · Git · GitHub
+Python · Pandas · NumPy · Scikit-learn · SHAP · Matplotlib · Seaborn · SQL · Jupyter · Streamlit · Docker · Git · GitHub
 
 ## 🎯 Portfolio Direction
 
-The goal is to demonstrate an end-to-end Data Science workflow: data preparation, exploratory analysis, statistical thinking, feature engineering, supervised learning, unsupervised learning, NLP, recommendation systems, time-series forecasting, visualization, and deployment.
+The goal is to demonstrate an end-to-end Data Science workflow: data preparation, exploratory analysis, statistical thinking, feature engineering, supervised learning, explainable AI, risk modeling, unsupervised learning, NLP, recommendation systems, time-series forecasting, visualization, and deployment.
